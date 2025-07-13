@@ -14,8 +14,10 @@
 
 > The model does not include real joints, rotation, or servos. It is purely visual and static.
 
-## View the Project
-- [ View in Tinkercad]([https://www.tinkercad.com/things/f9HJGiSaWKM/edit?returnTo=%2Fdashboard](https://www.tinkercad.com/things/f9HJGiSaWKM/edit?returnTo=%2Fdashboard))
+##  View the Project
+- You can view the 3D model here:  
+  [ Open Design in Tinkercad](https://www.tinkercad.com/things/f9HJGiSaWKM/edit?returnTo=%2Fdashboard)
+
 
 ##  Screenshots
 
