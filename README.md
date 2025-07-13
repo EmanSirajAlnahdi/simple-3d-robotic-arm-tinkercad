@@ -16,7 +16,7 @@
 
 ##  View the Project
 - You can view the 3D model here:  
-  [ Open Design in Tinkercad](https://www.tinkercad.com/things/f9HJGiSaWKM/edit?returnTo=%2Fdashboard)
+  [ Open Design in Tinkercad](https://www.tinkercad.com/things/f9HJGiSaWKM-funky-jofo)
 
 
 ##  Screenshots
